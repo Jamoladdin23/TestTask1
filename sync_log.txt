@@ -1,0 +1,2 @@
+2024-08-04 20:05:22.478369 - Created: C:\Users\User\PycharmProjects\pythonProject6\replica\file1
+2024-08-04 20:08:42.918399 - Created: C:\Users\User\PycharmProjects\pythonProject6\replica\file 2
